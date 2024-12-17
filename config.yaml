@@ -1,0 +1,4 @@
+parameters:
+  gamma1: 0.1
+  gamma2: 1.8
+  evaluation_metrics: ["contrast", "accuracy"]
